@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+header {
+    background-color: #303030;
+    display: grid;
+    color: antiquewhite; 
+    padding: 5px;
+    text-align: center;
+}
+main {
+    padding: 30px 10%;
+}
+.card {
+    background-color: aliceblue;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+    .inputpd {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    }
+    input {
+        padding: 10px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+    }
+    button {
+        border: none;
+        padding: 10px;
+        color: white;
+        background-color: #303030;
+        border-radius: 5px;
+        font-weight: bold;
+        transition: all ease 0.5;
+    }
+        button:hover {
+            background-color: black;
+        }
+.content {
+    margin-top: 15px;
+}
+    .content table {
+    border-collapse: collapse; 
+    width: 100%;
+    border: #ccc;
+    }
+        table th {
+            background-color: #303030;
+            padding: 1px;
+            color: aliceblue;
+        }
+        table td {
+            padding: 1px;
+        }
+        table td img {
+            width: 25px;
+        }
