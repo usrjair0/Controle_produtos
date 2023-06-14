@@ -19,9 +19,11 @@
 ## Uso 🧐
 
 ### A utilização é simples e bem intuitiva. <br>
+podemos começar digitando o nome do produto e seu preço e logo em seguida clicar no botão de adicionar e o produto é adicionado na minha lista. Ao fazer isso meus inputs limpam e permitem que eu insira novamente um outro item. Temos também a opção de apagar o objeto adicionado, para fazer isso basta clicar no icone da lixeira. Além disso o botão cancelar limpa meus inputs. <br><br>
  Aqui temos uma imagem do projeto no computador 💻: 👇<br> <br>
 <img src="./assets/PcView.png"> <br><br>
-
+ e aqui no celular :iphone:: 👇 <br><br>
+<img src="./assets/mobile_view.jpg" height="500" widht="225">
 
 ## Contato
 
