@@ -2,7 +2,7 @@
   <h1> Controle de produtos </h1>
 </div>
 
-#### Este projeto consiste em controle de produtos.
+#### Este projeto consiste em um controle de produtos.
 
 ## Tecnologias Utilizadas 
     Para fazer Esse projeto foram  utilizadas as seguintes tecnologias:
@@ -21,12 +21,7 @@
 ### A utilização é simples e bem intuitiva. <br>
  Aqui temos uma imagem do projeto no computador 💻: 👇<br> <br>
 <img src="./assets/PcView.png"> <br><br>
- e aqui no celular :iphone:: 👇 <br><br>
-<img src="./assets/mobileView.jpeg">
 
-## Licença
-
-Indique a licença sob a qual o seu projeto está disponibilizado. Por exemplo, você pode utilizar a Licença MIT ou qualquer outra licença adequada ao seu projeto.
 
 ## Contato
 
